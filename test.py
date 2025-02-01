@@ -1,3 +1,4 @@
+!pip install tensorflow==2.11.0
 import streamlit as st
 #from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 #import matplotlib.pyplot as plt
